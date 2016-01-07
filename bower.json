@@ -1,0 +1,21 @@
+{
+  "name": "Portfolio",
+  "homepage": "https://github.com/dougscott2/dougscott2.github.io",
+  "authors": [
+    "DrScott <dougscott2@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
